@@ -1,0 +1,19 @@
+Here are notes I took while reading and working through Chapter 3.
+
+
+
+A method is a program module that contains a series of statements that carry out a task. Remember the main() method automatically executes when you run the application.
+
+Method names use camelCasing, just like variable names.
+
+The return type in the method header decribes the type of data the method sends back to its calling method. A method that returns no data has a return type of void.
+
+A method can only return one value. The value can be a variable, a named or unnamed constant, or another method call, and the returned type must match or be promotable to the return type declared in the method header.
+
+When calling a method, the arguments passed must match the parameters declared on the method header. For example, if you declare an int variable and an double variable, you must pass an int argument and then an double argument (in that order) on the calling statement.
+
+When you are declaring a class in Java, you are just creating a new data type.
+
+The new operator instantiates a class by dynamically allocating (i.e, allocation at run time) memory for a new object and returning a reference to that memory. This reference is then stored in the variable. (ex. someEmployee = new Employee();)
+
+The JOptionPane class should be used when writing the SammysRentalPrice application and all other programming assignments for the rest of the semester.

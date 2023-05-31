@@ -1,0 +1,9 @@
+Here are notes I took while reading and working through Chapter 1.
+
+Application name must match the class name on the class header.
+
+Class name should begin with a uppercase letter and all first letters of subsequent words should be uppercase.
+
+When saving your file in Notepad, make sure to put the .java extension and change the Save as type: to All Files.
+
+When compiling and running your application, make sure are in the same location that you saved the java application.

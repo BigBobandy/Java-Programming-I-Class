@@ -1,0 +1,11 @@
+Here are notes I took while reading and working through Chapter 2.
+
+Variable names must use camel casing. Camel casing is where the first word of the variable name should begin with a lowercase letter and all first letters of subsequent words should be uppercase. (ex. firstName)
+
+Named constants must be preceded by the final keyword and consist of all uppercase letters, separated by an underscore and have a value assigned to it. (ex. final int NUMBER_OF_DEPTS = 20)
+
+When using the Scanner class:
+    System.in object only reads bytes.
+    Scanner class is used to allow the System.in object to accept data of other types.
+    Scanner class contains methods for accepting each data type except char.
+    nextLine() method should be used to accept the Enter key when following one of the other input methods. (pages 81-83)
