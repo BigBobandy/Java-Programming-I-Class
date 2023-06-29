@@ -45,7 +45,7 @@ public class AssignVolunteer4 {
         System.out.println("The volunteer who will price this item is " + volunteer);
     }
 }
-/*
+/* Lesson Notes and Description:
 In this lesson, I improved upon the previous AssignVolunteer3 application by adding more options for donation types and using a switch statement to assign the appropriate volunteer. 
 
 Key points to remember about this lesson:
